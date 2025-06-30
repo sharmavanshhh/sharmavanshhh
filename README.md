@@ -49,28 +49,36 @@
 | **Jewellery Shop Sales Tracking and Invoice System** | A software designed to help jewellery shop owners track sales, generate invoices, and manage sales history efficiently |
 | **AI Dog Training Assistant** | A chatbot application designed to help dog owners with personalized training advice, behavior analysis, and health recommendations |
 
+<!-- Cards: GitHub Stats + Top Languages -->
 ## 📊 GitHub Stats
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=sharmavanshhh&show_icons=true&theme=radical" style="flex: 1; min-width: 300px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sharmavanshhh&show_icons=true&theme=radical" height="200"/>
 
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmavanshhh&layout=compact&theme=radical" style="flex: 1; min-width: 300px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmavanshhh&layout=compact&theme=radical" height="200"/>
 
 </div>
 
-<!-- Contribution Streak Graph -->
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=sharmavanshhh&theme=radical" width="100%" />
+<!-- Contribution Streak Full Width -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sharmavanshhh&theme=radical" width="85%" />
+</p>
+
+
+
+---
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/sharmavanshhh/sharmavanshhh/blob/output/github-contribution-grid-snake.svg)
-
-
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://github.com/sharmavanshhh/snk/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" width="100%" />
+</div>
 
 ---
 
