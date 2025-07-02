@@ -55,10 +55,10 @@
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=sharmavanshhh&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sharmavanshhh&show_icons=true&theme=tokyonight" height="170"/>
 
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmavanshhh&layout=compact&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmavanshhh&layout=compact&theme=tokyonight" height="170"/>
 
 </div>
 
@@ -66,7 +66,7 @@
 
 <!-- Contribution Streak Full Width -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sharmavanshhh&theme=radical" width="85%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sharmavanshhh&theme=tokyonight" width="85%" />
 </p>
 
 
