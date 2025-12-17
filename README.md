@@ -167,22 +167,5 @@ An AI-powered chatbot application for dog owners.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharmavanshhh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmavanshhh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharmavanshhh&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sharmavanshhh&color=3b82f6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-</p>
-
 <h3 align="center">🌟 My mission is to create meaningful solutions that make a difference.</h3>
 <h4 align="center">Let's connect and build something extraordinary!</h4>
