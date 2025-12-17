@@ -158,14 +158,5 @@ An AI-powered chatbot application for dog owners.
 
 ---
 
-## 📜 Certifications
-
-![NPTEL](https://img.shields.io/badge/Data%20Analytics%20with%20Python-NPTEL-blue?style=flat-square)
-![iamNeo](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-iamNeo-green?style=flat-square)
-![iamNeo](https://img.shields.io/badge/Object%20Oriented%20Programming-iamNeo-green?style=flat-square)
-![freeCodeCamp](https://img.shields.io/badge/Relational%20Database-freeCodeCamp-purple?style=flat-square)
-
----
-
 <h3 align="center">🌟 My mission is to create meaningful solutions that make a difference.</h3>
 <h4 align="center">Let's connect and build something extraordinary!</h4>
