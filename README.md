@@ -97,7 +97,7 @@ A multimodal camera-based drone detection system to identify unauthorized UAV ac
 
 - ✅ Detection accuracy above **85%**
 - 📰 **Published in Indian Patent Journal 17/2025**
-- 🔗 [View Project](https://github.com/sharmavanshhh)
+- 🔗 [View Project](https://github.com/sharmavanshhh/Autonomous-Drone-Detection-System.git)
 
 </td>
 <td width="50%">
@@ -117,15 +117,17 @@ A web-based dashboard for analyzing streetlight energy consumption using unsuper
 <tr>
 <td width="50%">
 
-### 💎 Jewelry Shop Sales & Invoice System
-**Python, Flask, SQLite, JavaScript**
+### 🧠 Custom Memory Allocator in C++
+**Systems Programming | Heap Design | Memory Management**
 
-A complete sales tracking and invoice generator system for local jewelry businesses.
+A from-scratch implementation of a custom heap manager that mimics how `malloc` and `free` work internally in C/C++ runtime.
 
-- 📄 PDF billing with amount-to-words conversion
-- 📈 Date-wise and product-wise sales analytics
-- 🔐 Owner authentication system
-- 🔗 [View Project](https://github.com/sharmavanshhh)
+- 🧩 Block splitting & coalescing to handle fragmentation
+- ⚙️ First Fit & Best Fit allocation strategies
+- 🗂 Separate Heap List and Free List for efficient allocation
+- 🛡 Double free & invalid free detection
+- 📊 Heap visualization, memory map & statistics
+- 🔗 [View Project](https://github.com/sharmavanshhh/Custom-Memory-Allocator-in-Cpp)
 
 </td>
 <td width="50%">
@@ -138,7 +140,7 @@ An AI-powered chatbot application for dog owners.
 - 🎯 Personalized training advice
 - 🧠 Behavior analysis
 - 💊 Health recommendations
-- 🔗 [View Project](https://github.com/sharmavanshhh)
+- 🔗 [View Project](https://github.com/sharmavanshhh/Dog-Training-Assistant.git)
 
 </td>
 </tr>
