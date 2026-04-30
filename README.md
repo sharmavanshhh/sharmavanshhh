@@ -18,7 +18,7 @@
 Name: Vansh Sharma
 Location: India
 Education: B.Tech CSE @ Lovely Professional University (2023-2027)
-CGPA: 8.34
+CGPA: 8.39
 Current Focus: Full Stack Development & Machine Learning
 Fun Fact: I have a published patent in Drone Detection Systems!
 ```
